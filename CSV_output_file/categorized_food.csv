@@ -1,0 +1,516 @@
+restaurant,Food_Items,food_category,food_sub_category
+Mcdonalds,Artisan Grilled Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Single Bacon Smokehouse Burger,Main,Other
+Mcdonalds,Double Bacon Smokehouse Burger,Main,Other
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Big Mac,Other,Other
+Mcdonalds,Cheeseburger,Main,Other
+Mcdonalds,Classic Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Double Cheeseburger,Main,Other
+Mcdonalds,Double Quarter Pounder® with Cheese,Other,Other
+Mcdonalds,Filet-O-Fish®,Other,Other
+Mcdonalds,Garlic White Cheddar Burger,Main,Other
+Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Garlic White Cheddar Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Hamburger,Main,Other
+Mcdonalds,Lobster Roll,Other,Other
+Mcdonalds,Maple Bacon Dijon 1/4 lb Burger,Main,Other
+Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Maple Bacon Dijon Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,McChicken,Other,Other
+Mcdonalds,McDouble,Other,Other
+Mcdonalds,McRib,Other,Other
+Mcdonalds,Pico Guacamole 1/4 lb Burger,Main,Other
+Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,Main,"Chicken, Other"
+Mcdonalds,Premium Crispy Chicken Deluxe Sandwich,Main,"Chicken, Other"
+Mcdonalds,Quarter Pounder® with Cheese,Other,Other
+Mcdonalds,Signature Sriracha Burger,Main,Other
+Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Signature Sriracha Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Sweet BBQ Bacon 1/4 lb Burger,Main,Other
+Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,Main,"Chicken, Other"
+Mcdonalds,3 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,6 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,10 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,12 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,20 piece Buttermilk Crispy Chicken Tenders,Main,"Chicken, Other"
+Mcdonalds,4 Piece Chicken McNuggets,Other,Other
+Mcdonalds,6 Piece Chicken McNuggets,Other,Other
+Mcdonalds,10 Piece Chicken McNuggets,Other,Other
+Mcdonalds,20 Piece Chicken McNuggets,Other,Other
+Mcdonalds,40 piece Chicken McNuggets,Other,Other
+Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,Main,Other
+Mcdonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,Main,Other
+Mcdonalds,10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,Main,Other
+Mcdonalds,Premium Asian Salad w/o Chicken,Side,Other
+Mcdonalds,Premium Asian Salad w/ Grilled Chicken,Side,Other
+Mcdonalds,Premium Asian Salad w/ Crispy Chicken,Side,Other
+Mcdonalds,Premium Bacon Ranch Salad w/o Chicken,Side,Other
+Mcdonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,Side,Other
+Mcdonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,Side,Other
+Mcdonalds,Premium Southwest Salad w/o Chicken,Side,Other
+Mcdonalds,Premium Southwest Salad w/ Grilled Chicken,Side,Other
+Mcdonalds,Premium Southwest Salad w/ Crispy Chicken,Side,Other
+Chick Fil-A,Chargrilled Chicken Club Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Chargrilled Chicken Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Chick-n-Slider,Other,Other
+Chick Fil-A,1 Piece Chick-n-Strips,Other,Other
+Chick Fil-A,2 Piece Chick-n-Strips,Other,Other
+Chick Fil-A,3 Piece Chick-n-Strips,Other,Other
+Chick Fil-A,4 piece Chick-n-Strips,Other,Other
+Chick Fil-A,Chicken Deluxe,Other,Other
+Chick Fil-A,4 piece Chicken Nuggets,Other,Other
+Chick Fil-A,6 piece Chicken Nuggets,Other,Other
+Chick Fil-A,8 piece Chicken Nuggets,Other,Other
+Chick Fil-A,12 piece Chicken Nuggets,Other,Other
+Chick Fil-A,30 piece Chicken Nuggets,Other,Other
+Chick Fil-A,Chicken Salad Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Chicken Sandwich,Main,"Chicken, Other"
+Chick Fil-A,4 Piece Grilled Chicken Nuggets,Other,Other
+Chick Fil-A,6 Piece Grilled Chicken Nuggets,Other,Other
+Chick Fil-A,8 piece Grilled Chicken Nuggets,Other,Other
+Chick Fil-A,12 Piece Grilled Chicken Nuggets,Other,Other
+Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Regular Grilled Chicken Sub Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Smokehouse BBQ Bacon Sandwich,Main,Other
+Chick Fil-A,Spicy Chicken Sandwich,Main,"Chicken, Other"
+Chick Fil-A,Spicy Deluxe,Other,Other
+Chick Fil-A,Chargrilled Chicken Cool Wrap,Other,Other
+Chick Fil-A,Chicken Enchiladas Meal Kit,Other,Other
+Chick Fil-A,Chicken Parmesan Meal Kit,Other,Other
+Sonic,Hatch Green Chile Cheeseburger,Main,Other
+Sonic,Jalapeno Burger,Main,Other
+Sonic,Jr. Burger,Main,Other
+Sonic,Jr. Chili Cheeseburger,Main,Other
+Sonic,Jr. Deluxe Burger,Main,Other
+Sonic,Jr. Deluxe Cheeseburger,Main,Other
+Sonic,Jr. Double Cheeseburger,Main,Other
+Sonic,Sonic Bacon Cheeseburger (w/mayo),Main,Other
+Sonic,Sonic Burger W/ Mustard,Main,Other
+Sonic,Sonic Burger W/ Ketchup,Main,Other
+Sonic,Sonic Burger W/ Mayonnaise,Main,Other
+Sonic,Sonic Cheeseburger W/ Mustard,Main,Other
+Sonic,Sonic Cheeseburger W/ Ketchup,Main,Other
+Sonic,Sonic Cheeseburger W/ Mayonnaise,Main,Other
+Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),Main,Other
+Sonic,Super Sonic Double Cheeseburger W/ Mustard,Main,Other
+Sonic,Super Sonic Double Cheeseburger W/ Ketchup,Main,Other
+Sonic,Super Sonic Double Cheeseburger W/ Mayo,Main,Other
+Sonic,Super Sonic Jalapeno Double Cheeseburger,Main,Other
+Sonic,Veggie Burger W/ Ketchup,Main,Other
+Sonic,Veggie Burger With Mustard,Main,Other
+Sonic,Veggie Burger W/ Mustard,Main,Other
+Sonic,Grilled Asiago Caesar Chicken Club Sandwich,Main,"Chicken, Other"
+Sonic,Crispy Asiago Caesar Chicken Club Sandwich,Main,"Chicken, Other"
+Sonic,Grilled Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Crispy Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Chicken Strip Sandwich,Main,"Chicken, Other"
+Sonic,3 Piece Crispy Chicken Tender Dinner,Other,Other
+Sonic,5 Piece Crispy Chicken Tender Dinner,Other,Other
+Sonic,Deluxe Ultimate Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Buffalo Dunked Ultimate Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Garlic Parmesan Dunked Ultimate Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Small Jumbo Popcorn Chicken,Other,Other
+Sonic,Large Jumbo Popcorn Chicken,Other,Other
+Sonic,Small Spicy Jumbo Popcorn Chicken,Other,Other
+Sonic,Large Spicy Jumbo Popcorn Chicken,Other,Other
+Sonic,3 Piece Super Crunch Chicken Strip Dinner,Other,Other
+Sonic,4 Piece Super Crunch Chicken Strip Dinner,Other,Other
+Sonic,5 Piece Super Crunch Chicken Strip Dinner,Other,Other
+Sonic,3 Piece Super Crunch Chicken Strips,Other,Other
+Sonic,4 Piece Super Crunch Chicken Strips,Other,Other
+Sonic,5 Piece Super Crunch Chicken Strips,Other,Other
+Sonic,Traditional Ultimate Chicken Sandwich,Main,"Chicken, Other"
+Sonic,Ultimate Chicken Club,Other,Other
+Sonic,"All Beef All-american Style Dog – 6""",Main,"Beef, Other"
+Sonic,"All Beef Chicago Dog – 6""",Main,"Beef, Other"
+Sonic,"All Beef Chili Cheese Coney – 6""",Main,"Beef, Other"
+Sonic,"All Beef New York Dog – 6""",Main,"Beef, Other"
+Sonic,"All Beef Regular Hot Dog – 6""",Main,"Beef, Other"
+Sonic,Cheesy Bacon Pretzel Dog - 6 In.,Other,Other
+Sonic,Corn Dog,Other,Other
+Sonic,Footlong Quarter Pound Coney,Other,Other
+Sonic,The Original Pretzel Dog,Other,Other
+Arbys,Arby's Melt,Other,Other
+Arbys,Arby-Q Sandwich,Main,Other
+Arbys,Beef 'n Cheddar Classic,Main,"Beef, Other"
+Arbys,Beef 'n Cheddar Mid,Main,"Beef, Other"
+Arbys,Bourbon BBQ Brisket Sandwich,Main,Other
+Arbys,Bourbon BBQ Chicken Sandwich,Main,"Chicken, Other"
+Arbys,Bourbon BBQ Steak Sandwich,Main,Other
+Arbys,Buttermilk Buffalo Chicken Sandwich,Main,"Chicken, Other"
+Arbys,Buttermilk Chicken Bacon & Swiss,Other,Other
+Arbys,Buttermilk Chicken Cordon Bleu Sandwich,Main,"Chicken, Other"
+Arbys,Buttermilk Crispy Chicken Sandwich,Main,"Chicken, Other"
+Arbys,Classic French Dip & Swiss/Au Jus,Other,Other
+Arbys,Classic Roast Beef,Main,"Beef, Other"
+Arbys,Double Roast Beef,Main,"Beef, Other"
+Arbys,Fire-Roasted Philly Steak,Other,Other
+Arbys,Grand Turkey Club,Other,Other
+Arbys,Greek Gyro,Other,Other
+Arbys,Half Pound Beef 'n Cheddar Sandwich,Main,"Beef, Other"
+Arbys,Half Pound French Dip & Swiss,Other,Other
+Arbys,Half Pound Roast Beef Sandwich,Main,"Beef, Other"
+Arbys,Ham & Swiss Melt,Other,Other
+Arbys,Loaded Italian Sandwich,Main,Other
+Arbys,Pecan Chicken Salad Flatbread,Side,Other
+Arbys,Pecan Chicken Salad Sandwich,Main,"Chicken, Other"
+Arbys,2 piece Prime-Cut Chicken Tenders,Main,"Chicken, Other"
+Arbys,3 piece Prime-Cut Chicken Tenders,Main,"Chicken, Other"
+Arbys,5 piece Prime-Cut Chicken Tenders,Main,"Chicken, Other"
+Arbys,Reuben Sandwich,Main,Other
+Arbys,Roast Beef Gyro,Main,"Beef, Other"
+Arbys,Roast Turkey & Swiss Sandwich,Main,Other
+Arbys,Roast Turkey & Swiss Wrap,Other,Other
+Arbys,"Roast Turkey, Ranch & Bacon Sandwich",Main,Other
+Arbys,"Roast Turkey, Ranch & Bacon Wrap",Other,Other
+Arbys,Smoke Mountain w/ Beef Short Rib,Main,"Beef, Other"
+Arbys,Smokehouse Beef Short Rib Sandwich,Main,"Beef, Other"
+Arbys,Smokehouse Brisket,Other,Other
+Arbys,Super Roast Beef,Main,"Beef, Other"
+Arbys,Three Cheese Steak Sandwich,Main,Other
+Arbys,Triple Decker Sandwich,Main,Other
+Arbys,Turkey Avocado Club,Other,Other
+Arbys,Turkey Gyro,Other,Other
+Arbys,Ultimate BLT,Other,Other
+Arbys,Buffalo Chicken Slider,Other,Other
+Arbys,Chicken Tender 'n Cheese Slider,Other,Other
+Arbys,Corned Beef 'n Cheese Slider,Main,"Beef, Other"
+Arbys,Ham 'n Cheese Slider,Other,Other
+Arbys,Jalapeno Roast Beef 'n Cheese Slider,Main,"Beef, Other"
+Arbys,Pizza Slider,Other,Other
+Arbys,Roast Beef 'n Cheese Slider,Main,"Beef, Other"
+Arbys,Turkey 'n Cheese Slider,Other,Other
+Arbys,Chopped Side Salad,Side,Other
+Arbys,Crispy Chicken Farmhouse Salad,Side,Other
+Arbys,Greek Gyro Salad,Side,Other
+Arbys,Roast Turkey Farmhouse Salad,Side,Other
+Arbys,Super Greek Salad,Side,Other
+Burger King,American Brewhouse King,Other,Other
+Burger King,Bacon & Swiss Sourdough King,Other,Other
+Burger King,Bacon Cheeseburger,Main,Other
+Burger King,Bacon Cheeseburger Deluxe,Main,Other
+Burger King,Bacon King,Other,Other
+Burger King,Bacon King Jr,Other,Other
+Burger King,BBQ Bacon King,Other,Other
+Burger King,Cheeseburger,Main,Other
+Burger King,Double Bacon Cheeseburger,Main,Other
+Burger King,Double Cheeseburger,Main,Other
+Burger King,Double Hamburger,Main,Other
+Burger King,Double Quarter Pound King,Other,Other
+Burger King,Extra Long Cheeseburger,Main,Other
+Burger King,Farmhouse King,Other,Other
+Burger King,Hamburger,Main,Other
+Burger King,Homestyle Cheeseburger,Main,Other
+Burger King,Jalapeno King Sandwich,Main,Other
+Burger King,Mushroom & Swiss King,Other,Other
+Burger King,Rodeo Burger,Main,Other
+Burger King,Rodeo King,Other,Other
+Burger King,Sourdough King Single,Other,Other
+Burger King,Sourdough King Double,Other,Other
+Burger King,Steakhouse King,Other,Other
+Burger King,Bacon & Cheese Whopper,Other,Other
+Burger King,DOUBLE WHOPPER w/o Cheese,Other,Other
+Burger King,DOUBLE WHOPPER w/ Cheese,Other,Other
+Burger King,WHOPPER w/o Cheese,Other,Other
+Burger King,WHOPPER w/ Cheese,Other,Other
+Burger King,WHOPPER JR. w/o Cheese,Other,Other
+Burger King,WHOPPER JR. w/ Cheese,Other,Other
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,Side,Other
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,Side,Other
+Burger King,Chicken BLT Salad w/ Grilled Chicken,Side,Other
+Burger King,Chicken BLT Salad w/ Crispy Chicken,Side,Other
+Burger King,Chicken Caesar Salad w/ Grilled Chicken,Side,Other
+Burger King,Chicken Caesar Salad w/ Crispy Chicken,Side,Other
+Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",Side,Other
+Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",Side,Other
+Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",Side,Other
+Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",Side,Other
+Burger King,Side Caesar Salad with dressing,Side,Other
+Burger King,Side Garden Salad and Avocado Ranch Dressing,Side,Other
+Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,Main,"Chicken, Other"
+Burger King,BBQ Bacon Crispy Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Big Fish Sandwich,Main,Other
+Burger King,BK VEGGIE Burger,Main,Other
+Burger King,Chicken Burger,Main,"Chicken, Other"
+Burger King,Chicken Cordon Bleu Sandwich,Main,"Chicken, Other"
+Burger King,Chicken Fries,Side,Other
+Burger King,4 Piece Chicken Nuggets,Other,Other
+Burger King,6 Piece Chicken Nuggets,Other,Other
+Burger King,20 Piece Chicken Nuggets,Other,Other
+Burger King,Chicken Nuggets (10pc),Other,Other
+Burger King,Chicken Parmesan Sandwich,Main,"Chicken, Other"
+Burger King,Crispy Buffalo Chicken Melt,Other,Other
+Burger King,Crispy Chicken Jr.,Other,Other
+Burger King,Crispy Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Grilled Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Grilled Chili Cheese Dog,Other,Other
+Burger King,Grilled Hot Dog,Other,Other
+Burger King,Jalapeno Chicken Fries,Side,Other
+Burger King,Original Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Pretzel Chicken Fries,Side,Other
+Burger King,Rodeo Crispy Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Sourdough Chicken Club,Other,Other
+Burger King,4 Piece Spicy Chicken Nuggets,Other,Other
+Burger King,Spicy Chicken Nuggets,Other,Other
+Burger King,Spicy Crispy Chicken Jr.,Other,Other
+Burger King,Spicy Crispy Chicken Sandwich,Main,"Chicken, Other"
+Burger King,Spicy Crispy Jalapeno Chicken Sandwich,Main,"Chicken, Other"
+Dairy Queen,1/2 lb. FlameThrower® GrillBurger,Main,Other
+Dairy Queen,1/2 lb. GrillBurger with Cheese,Main,Other
+Dairy Queen,1/4 lb. Bacon Cheese GrillBurger,Main,Other
+Dairy Queen,1/4 lb. GrillBurger with Cheese,Main,Other
+Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,Main,Other
+Dairy Queen,Original Cheeseburger,Main,Other
+Dairy Queen,Original Double Cheeseburger,Main,Other
+Dairy Queen,4 Piece Chicken Strip Basket w/ Country Gravy,Other,Other
+Dairy Queen,6 Piece Chicken Strip Basket w/ Country Gravy,Other,Other
+Dairy Queen,Bacon Cheese Dog,Other,Other
+Dairy Queen,Cheese Dog,Other,Other
+Dairy Queen,Chili Cheese Dog,Other,Other
+Dairy Queen,Chili Dog,Other,Other
+Dairy Queen,Hot Dog,Other,Other
+Dairy Queen,Relish Dog,Other,Other
+Dairy Queen,Barbecue Pork Sandwich,Main,Pork
+Dairy Queen,Breaded Mushrooms,Other,Other
+Dairy Queen,Regular Cheese Curds,Other,Other
+Dairy Queen,Large Cheese Curds,Other,Other
+Dairy Queen,Chili Cheese Mega Dog,Other,Other
+Dairy Queen,Corn Dog,Other,Other
+Dairy Queen,Crispy Fish Sandwich,Main,Other
+Dairy Queen,Deluxe Cheeseburger,Main,Other
+Dairy Queen,Deluxe Double Cheeseburger,Main,Other
+Dairy Queen,Deluxe Double Hamburger,Main,Other
+Dairy Queen,Deluxe Hamburger,Main,Other
+Dairy Queen,DQ Ultimate® Burger,Main,Other
+Dairy Queen,Pork Tenderloin Sandwich,Main,Pork
+Dairy Queen,Steak Finger Basket,Other,Other
+Dairy Queen,3 chicken strips Chicken Strips,Other,Other
+Dairy Queen,Chicken Bacon Ranch Sandwich,Main,"Chicken, Other"
+Dairy Queen,Chicken Mozzarella Sandwich,Main,"Chicken, Other"
+Dairy Queen,Crispy Chicken BLT Salad,Side,Other
+Dairy Queen,Crispy Chicken Garden Greens Salad,Side,Other
+Dairy Queen,Crispy Chicken Sandwich,Main,"Chicken, Other"
+Dairy Queen,Crispy Chicken Wrap,Other,Other
+Dairy Queen,Grilled Chicken BLT Salad,Side,Other
+Dairy Queen,Grilled Chicken Garden Greens Salad,Side,Other
+Dairy Queen,Grilled Chicken Sandwich,Main,"Chicken, Other"
+Dairy Queen,Grilled Chicken Wrap,Other,Other
+Dairy Queen,Side Salad,Side,Other
+Dairy Queen,Turkey BLT Sandwich,Main,Other
+Subway,"6"" B.L.T.",Other,Other
+Subway,Footlong B.L.T.,Other,Other
+Subway,"6"" BBQ Rib Sandwich",Main,Other
+Subway,Footlong BBQ Rib Sandwich,Main,Other
+Subway,"6"" Big Hot Pastrami",Other,Other
+Subway,Footlong Big Hot Pastrami,Other,Other
+Subway,"6"" Big Philly Cheesesteak",Other,Other
+Subway,Footlong Big Philly Cheesesteak,Other,Other
+Subway,Kids Mini Sub Black Forest Ham,Other,Other
+Subway,"6"" Black Forest Ham",Other,Other
+Subway,Footlong Black Forest Ham,Other,Other
+Subway,"6"" Carved Turkey",Other,Other
+Subway,Footlong Carved Turkey,Other,Other
+Subway,"6"" Carved Turkey & Bacon w/ Cheese",Other,Other
+Subway,Footlong Carved Turkey & Bacon w/ Cheese,Other,Other
+Subway,"6"" Chicken & Bacon Ranch Melt",Other,Other
+Subway,Footlong Chicken & Bacon Ranch Melt,Other,Other
+Subway,"6"" Chicken Pizziola Melt",Other,Other
+Subway,Footlong Chicken Pizziola Melt,Other,Other
+Subway,"6"" Cold Cut Combo",Other,Other
+Subway,Footlong Cold Cut Combo,Other,Other
+Subway,"6"" Corned Beef Reuben",Main,"Beef, Other"
+Subway,Footlong Corned Beef Reuben,Main,"Beef, Other"
+Subway,"6"" Italian B.M.T.",Other,Other
+Subway,Footlong Italian B.M.T.,Other,Other
+Subway,"6"" Italian Hero",Other,Other
+Subway,Footlong Italian Hero,Other,Other
+Subway,"6"" Meatball Marinara",Other,Other
+Subway,Footlong Meatball Marinara,Other,Other
+Subway,"6"" Oven Roasted Chicken",Other,Other
+Subway,Footlong Oven Roasted Chicken,Other,Other
+Subway,Kids Mini Sub Roast Beef,Main,"Beef, Other"
+Subway,"6"" Roast Beef",Main,"Beef, Other"
+Subway,Footlong Roast Beef,Main,"Beef, Other"
+Subway,"6"" Rotisserie Style Chicken",Other,Other
+Subway,Footlong Rotisserie Style Chicken,Other,Other
+Subway,"6"" Spicy Italian",Other,Other
+Subway,Footlong Spicy Italian,Other,Other
+Subway,"6"" Steak and Cheese",Other,Other
+Subway,Footlong Steak and Cheese,Other,Other
+Subway,"6"" Subway Club",Other,Other
+Subway,Footlong Subway Club,Other,Other
+Subway,"6"" Subway Melt (includes cheese)",Other,Other
+Subway,Footlong Subway Melt (includes cheese),Other,Other
+Subway,"6"" Subway Seafood Sensation",Other,Other
+Subway,Footlong Subway Seafood Sensation,Other,Other
+Subway,"6"" Sweet Onion Chicken Teriyaki",Other,Other
+Subway,Footlong Sweet Onion Chicken Teriyaki,Other,Other
+Subway,"6"" Tuna",Other,Other
+Subway,Footlong Tuna,Other,Other
+Subway,"6"" Turkey & Bacon Avocado",Other,Other
+Subway,Footlong Turkey & Bacon Avocado,Other,Other
+Subway,Kids Mini Sub Turkey Breast,Other,Other
+Subway,"6"" Turkey Breast",Other,Other
+Subway,Footlong Turkey Breast,Other,Other
+Subway,"6"" Turkey Breast & Ham",Other,Other
+Subway,Footlong Turkey Breast & Ham,Other,Other
+Subway,"6"" Turkey Italiano Melt (with Provolone)",Other,Other
+Subway,Footlong Turkey Italiano Melt (with Provolone),Other,Other
+Subway,Kids Mini Sub Veggie Delite,Other,Other
+Subway,"6"" Veggie Delite",Other,Other
+Subway,Footlong Veggie Delite,Other,Other
+Subway,"6"" Veggie Patty",Other,Other
+Subway,Footlong Veggie Patty,Other,Other
+Subway,Autumn Carved Turkey Salad,Side,Other
+Subway,B.L.T. Salad,Side,Other
+Subway,Big Hot Pastrami Melt Salad,Side,Other
+Subway,Big Philly Cheesesteak Salad,Side,Other
+Subway,Black Forest Ham Salad,Side,Other
+Subway,Buffalo Chicken Salad (with Ranch dressing),Side,Other
+Subway,Carved Turkey & Bacon w/ Cheese Salad,Side,Other
+Subway,Carved Turkey Salad,Side,Other
+Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),Side,Other
+Subway,Cold Cut Combo Salad,Side,Other
+Subway,Double Chicken Salad,Side,Other
+Subway,Italian B.M.T.® Salad,Side,Other
+Subway,Italian Hero Salad,Side,Other
+Subway,Meatball Marinara Salad,Side,Other
+Subway,Oven Roasted Chicken Salad,Side,Other
+Subway,Roast Beef Salad,Main,"Beef, Other"
+Subway,Spicy Italian Salad,Side,Other
+Subway,Steak & Cheese Salad,Side,Other
+Subway,Subway Club Salad,Side,Other
+Subway,Subway Melt® Salad,Side,Other
+Subway,Sweet Onion Chicken Teriyaki Salad,Side,Other
+Subway,Tuna Salad,Side,Other
+Subway,Turkey Breast & Ham Salad,Side,Other
+Subway,Turkey Breast Salad,Side,Other
+Subway,Veggie Delite Salad,Side,Other
+Subway,Chipotle Southwest Steak & Cheese Wrap,Other,Other
+Subway,Rotisserie-Style Chicken Caesar Wrap,Other,Other
+Subway,"Turkey, Bacon & Guacamole Wrap",Other,Other
+Subway,Cheese & Veggies Pizza,Other,Other
+Subway,Cheese Pizza,Other,Other
+Subway,Pepperoni Pizza,Other,Other
+Subway,Sausage Pizza,Other,Other
+Taco Bell,1/2 lb.* Cheesy Potato Burrito,Other,Other
+Taco Bell,1/2 lb.* Combo Burrito,Other,Other
+Taco Bell,7-Layer Burrito,Other,Other
+Taco Bell,Bean Burrito,Other,Other
+Taco Bell,Beefy 5-Layer Burrito,Main,"Beef, Other"
+Taco Bell,Beefy Fritos® Burrito,Main,"Beef, Other"
+Taco Bell,Black Bean Burrito,Other,Other
+Taco Bell,Burrito Supreme® – Beef,Main,"Beef, Other"
+Taco Bell,Burrito Supreme® - Chicken,Other,Other
+Taco Bell,Burrito Supreme® - Steak,Other,Other
+Taco Bell,Cantina Power Burrito - Chicken,Other,Other
+Taco Bell,Cantina Power Burrito - Steak,Other,Other
+Taco Bell,Cantina Power Burrito - Veggie,Other,Other
+Taco Bell,Cheesy Bean and Rice Burrito,Other,Other
+Taco Bell,Chili Cheese Burrito,Other,Other
+Taco Bell,Chicken Crunchy Cheesy Core Burrito,Other,Other
+Taco Bell,Steak Crunchy Cheesy Core Burrito,Other,Other
+Taco Bell,Beef Crunchy Cheesy Core Burrito,Main,"Beef, Other"
+Taco Bell,Loaded Taco Burrito,Main,Other
+Taco Bell,Chicken Quesarito,Other,Other
+Taco Bell,Steak Quesarito,Other,Other
+Taco Bell,Beef Quesarito,Main,"Beef, Other"
+Taco Bell,Shredded Chicken Burrito,Other,Other
+Taco Bell,Smothered Burrito - Beef,Main,"Beef, Other"
+Taco Bell,Smothered Burrito - Shredded Chicken,Other,Other
+Taco Bell,Smothered Burrito - Steak,Other,Other
+Taco Bell,Chicken Spicy Cheesy Core Burrito,Other,Other
+Taco Bell,Steak Spicy Cheesy Core Burrito,Other,Other
+Taco Bell,Beef Spicy Cheesy Core Burrito,Main,"Beef, Other"
+Taco Bell,Triple Melt Burrito,Other,Other
+Taco Bell,XXL Grilled Stuft Burrito - Beef,Main,"Beef, Other"
+Taco Bell,XXL Grilled Stuft Burrito - Chicken,Other,Other
+Taco Bell,XXL Grilled Stuft Burrito - Steak,Other,Other
+Taco Bell,Chicken Soft Taco,Main,"Chicken, Other"
+Taco Bell,Cool Ranch® Doritos® Double Decker® Taco,Main,Other
+Taco Bell,Cool Ranch® Doritos® Locos Taco,Main,Other
+Taco Bell,Cool Ranch® Doritos® Locos Taco Supreme,Main,Other
+Taco Bell,Crunchy Taco,Main,Other
+Taco Bell,Crunchy Taco Supreme®,Main,Other
+Taco Bell,Double Decker® Taco,Main,Other
+Taco Bell,DOUBLE DECKER® Taco Supreme®,Main,Other
+Taco Bell,Spicy Sweet Double Stacked Taco,Main,Other
+Taco Bell,Cool Ranch Habanero Double Stacked Taco,Main,Other
+Taco Bell,Nacho Crunch Double Stacked Taco,Main,Other
+Taco Bell,Fiery Doritos® Double Decker® Taco,Main,Other
+Taco Bell,Fiery Doritos® Locos Taco,Main,Other
+Taco Bell,Fiery Doritos® Locos Taco Supreme,Main,Other
+Taco Bell,Grilled Steak Soft Taco,Main,Other
+Taco Bell,Nacho Cheese Doritos® Double Decker® Taco,Main,Other
+Taco Bell,Nacho Cheese Doritos® Locos Tacos,Main,Other
+Taco Bell,Nacho Cheese Doritos® Locos Tacos Supreme,Main,Other
+Taco Bell,Soft Taco Supreme® – Beef,Main,"Beef, Other"
+Taco Bell,Soft Taco-Beef,Main,"Beef, Other"
+Taco Bell,Spicy Potato Soft Taco,Main,Other
+Taco Bell,Chalupa Supreme® - Chicken,Other,Other
+Taco Bell,Chalupa Supreme® - Steak,Other,Other
+Taco Bell,Chalupa Supreme®–Beef,Main,"Beef, Other"
+Taco Bell,Double Chalupa,Other,Other
+Taco Bell,Wild Naked Chicken Chalupa,Other,Other
+Taco Bell,Mild Naked Chicken Chalupa,Other,Other
+Taco Bell,Spicy Double Chalupa,Other,Other
+Taco Bell,Fresco Bean Burrito,Other,Other
+Taco Bell,Fresco Burrito Supreme® – Chicken,Other,Other
+Taco Bell,Fresco Burrito Supreme® – Steak,Other,Other
+Taco Bell,Fresco Chicken Soft Taco,Main,"Chicken, Other"
+Taco Bell,Fresco Crunchy Taco,Main,Other
+Taco Bell,Fresco Grilled Steak Soft Taco,Main,Other
+Taco Bell,Fresco Soft Taco,Main,Other
+Taco Bell,Cheesy Gordita Crunch,Other,Other
+Taco Bell,Doritos® Cheesy Gordita Crunch - Cool Ranch,Other,Other
+Taco Bell,Doritos® Cheesy Gordita Crunch - Fiery,Other,Other
+Taco Bell,Doritos® Cheesy Gordita Crunch - Nacho Cheese,Other,Other
+Taco Bell,Double Cheesy Gordita Crunch,Other,Other
+Taco Bell,Gordita Supreme® – Beef,Main,"Beef, Other"
+Taco Bell,Gordita Supreme® - Chicken,Other,Other
+Taco Bell,Gordita Supreme® - Steak,Other,Other
+Taco Bell,Nacho Fries Bellgrande,Side,Other
+Taco Bell,Nachos BellGrande®,Other,Other
+Taco Bell,Nachos Supreme,Other,Other
+Taco Bell,Triple Layer Nachos,Other,Other
+Taco Bell,Triple Melt Nachos,Other,Other
+Taco Bell,Beefy Cheddar Crunchwrap Slider,Main,"Beef, Other"
+Taco Bell,Beefy Mini Quesadilla,Main,"Beef, Other"
+Taco Bell,Beefy Nacho Griller,Main,"Beef, Other"
+Taco Bell,BLT Crunchwrap Slider,Other,Other
+Taco Bell,Cantina Power Bowl - Chicken,Other,Other
+Taco Bell,Cantina Power Bowl - Steak,Other,Other
+Taco Bell,Cantina Power Bowl - Veggie,Other,Other
+Taco Bell,Cheese Quesadilla,Other,Other
+Taco Bell,Cheese Roll-Up,Other,Other
+Taco Bell,Chicken Quesadilla,Other,Other
+Taco Bell,Chickstar,Other,Other
+Taco Bell,Chili Cheese Burrito,Other,Other
+Taco Bell,Chipotle Crispy Chicken Griller,Other,Other
+Taco Bell,Crispy Chicken Quesadilla,Other,Other
+Taco Bell,Crunchwrap Supreme®,Other,Other
+Taco Bell,Double Tostada,Other,Other
+Taco Bell,Express Taco Salad w/ Chips,Main,Other
+Taco Bell,Loaded Potato Griller,Other,Other
+Taco Bell,Mexican Pizza,Other,Other
+Taco Bell,MexiMelt®,Other,Other
+Taco Bell,Steak Quesalupa,Other,Other
+Taco Bell,Chicken Quesalupa,Other,Other
+Taco Bell,Beef Quesalupa,Main,"Beef, Other"
+Taco Bell,Shredded Chicken Mini Quesadilla,Other,Other
+Taco Bell,Spicy Chicken Crunchwrap Slider,Other,Other
+Taco Bell,Spicy Tostada,Other,Other
+Taco Bell,Stacker,Other,Other
+Taco Bell,Steak Quesadilla,Other,Other
+Taco Bell,Original Triple Double Crunchwrap,Other,Other
+Taco Bell,Spicy Triple Double Crunchwrap,Other,Other
+Taco Bell,Express Taco Salad w/ Chips,Main,Other
+Taco Bell,Fiesta Taco Salad-Beef,Main,"Beef, Other"
+Taco Bell,Fiesta Taco Salad-Chicken,Main,"Chicken, Other"
+Taco Bell,Fiesta Taco Salad-Steak,Main,Other
